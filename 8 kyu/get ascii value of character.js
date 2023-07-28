@@ -1,3 +1,3 @@
 function getASCII(c){
-    return c.charCodeAt(0);
+    return c.charCodeAt(0) ;
 }
